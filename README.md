@@ -1,2 +1,2 @@
-# Tienda-Online
- FULLSTACK DEVELOPER SOFTWARE - Caso practico 01
+# tienda-online
+Diseño Tienda Online | HTML, CSS, JAVASCRIPT
